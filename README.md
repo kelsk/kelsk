@@ -15,8 +15,8 @@ Some things I love:
 
 🎓 I'm a proud graduate of [Ada Developers Academy](https://adadevelopersacademy.org/).
 
-I used to make music. I still do, but I used to, too.
-🎙 [Women Who Code radio: Real Musicians Have Day Jobs](https://www.hipcast.com/podcast/HWKgpywQ) (
+I used to make music. I still do, but I used to, too.    
+🎙 [Women Who Code radio: Real Musicians Have Day Jobs](https://www.hipcast.com/podcast/HWKgpywQ)
 
-I like to tinker with Apps Script.
-📄 [Building a Gmail Add-On with Apps Script](https://medium.com/@kelseykripp/building-a-gmail-add-on-with-apps-script-162e03632c78) (Medium)
+I like to tinker with Apps Script.    
+📄 [Building a Gmail Add-On with Apps Script](https://medium.com/@kelseykripp/building-a-gmail-add-on-with-apps-script-162e03632c78)
